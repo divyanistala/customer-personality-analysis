@@ -2,6 +2,12 @@
 Customer personality analysis using machine learning techniques to derive actionable customer segments
 # Customer Personality Analysis
 
+##  Project Snapshot
+- Objective: Segment customers to enable targeted marketing strategies  
+- Technique: K-Means Clustering (Silhouette Score for model selection)  
+- Outcome: Identified distinct customer groups with clear spending patterns  
+- Impact: Enables data-driven customer targeting and resource allocation
+  
 ##  Overview
 This project analyses customer demographic and behavioural data to uncover meaningful customer segments and spending patterns. Using machine learning techniques, the aim is to support data-driven marketing strategies through customer segmentation and insight generation.
 
